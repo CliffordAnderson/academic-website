@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://www.cliffordanderson.net/"
 
 # Title of your site
 title = "Clifford B. Anderson"
@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-120685902-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -65,13 +65,13 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "clifford.anderson@vanderbilt.edu"
   address = "213 Law Library, Vanderbilt University, Nashville, TN 37203 USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  office_hours = "Friday 9:00 to 11:00 or email for appointment"
   phone = "615 322 6938"
   skype = "cliffordbanderson"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = ""
+  keybase = "andersoncliffb"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -158,7 +158,7 @@ enableGitInfo = false
   # Privacy pack
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
-  privacy_pack = false
+  privacy_pack = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -243,6 +243,16 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//github.com/cliffordanderson"
 
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/cliffordbanderson/"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0003-0328-0792"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -263,13 +273,13 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Projects"
+  url = "#projects"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Research"
+  url = "#research"
   weight = 4
 
 [[menu.main]]
