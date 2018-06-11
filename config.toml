@@ -224,11 +224,6 @@ enableGitInfo = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:clifford.anderson@vanderbilt.edu"
-
-  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/andersoncliffb"
@@ -244,15 +239,14 @@ enableGitInfo = false
     link = "//github.com/cliffordanderson"
 
   [[params.social]]
+      icon = "orcid"
+      icon_pack = "ai"
+      link = "//orcid.org/0000-0003-0328-0792"
+
+  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/cliffordbanderson/"
-
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "//orcid.org/0000-0003-0328-0792"
-
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
