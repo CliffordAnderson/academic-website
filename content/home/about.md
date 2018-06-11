@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Academic Librarianship",
-    "Digital Humanities",
     "Computational Thinking",
+    "Digital Humanities",
     "Theological Studies",
   ]
 
