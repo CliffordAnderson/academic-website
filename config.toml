@@ -276,7 +276,7 @@ enableGitInfo = false
   url = "#teaching"
   weight = 4
 
-[menu.main]]
+[[menu.main]]
     name = "News"
     url = "#news"
     weight = 5
