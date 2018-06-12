@@ -7,7 +7,7 @@ active = true
 date = 2018-06-11T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Research"
+title = "News"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,7 +15,7 @@ weight = 20
 
 +++
 
-# Cultural Heritage in the Age of Big data
+## Cultural Heritage in the Age of Big data
 
 A public symposium titled “Cultural Heritage in the Age of Big Data” will be hosted by Vanderbilt University Libraries Friday, June 1, bringing together archivists, librarians, digital humanists and public historians to discuss the ethical implications of preserving and providing access to culturally sensitive materials online.
 
