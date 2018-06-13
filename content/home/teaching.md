@@ -34,6 +34,6 @@ This seminar explores the cultural history of Berlin in the twentieth century us
 
 * SP 2014: M 2:10 – 4:00
 
-* Taught by Director for Scholarly Communications in the Vanderbilt University Library and David Michelson, Assistant Professor of the History of Christianity and an affiliate Assistant Professor of Classics.
+* Taught by Clifford B. Anderson, Director for Scholarly Communications in the Vanderbilt University Library, and David Michelson, Assistant Professor of the History of Christianity and an affiliate Assistant Professor of Classics.
 
 The course provides an introduction to the theory and methods of the digital humanities with particular attention to the disciplinary perspectives of history and religious studies. This course is designed for graduate students of history, religion, literature, historical theology or classics who would like to acquire research skills in the techniques of digital text editing and analysis. Students will learn the fundamentals of digital text editing and the computational analysis of digital corpora. Students will engage with theoretical questions concerning the nature of texts and the challenges of representing the past through new media. By the conclusion of the course, students will have crafted a future research plan specific to their for digital editing and/or analysis needs.
