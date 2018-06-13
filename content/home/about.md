@@ -46,4 +46,4 @@ weight = 5
 
 # Biography
 
-Clifford B. Anderson is Associate University Librarian for Research and Learning at the [Vanderbilt University Library](http://www.library.vanderbilt.edu/). He holds a secondary appointment as Professor of [Religious Studies](https://as.vanderbilt.edu/religiousstudies/) in the College of Arts & Science at Vanderbilt University and is also affiliated faculty in the [Comparative Media Analysis and Practice](https://as.vanderbilt.edu/cmap/) Joint-Ph.D. program
+Clifford B. Anderson is Associate University Librarian for Research and Learning at the [Vanderbilt University Library](http://www.library.vanderbilt.edu/). He holds a secondary appointment as Professor of [Religious Studies](https://as.vanderbilt.edu/religiousstudies/) in the College of Arts & Science at Vanderbilt University and is also affiliated faculty in the [Comparative Media Analysis and Practice](https://as.vanderbilt.edu/cmap/) Joint-Ph.D. program.
