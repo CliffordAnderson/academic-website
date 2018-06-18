@@ -8,7 +8,7 @@ abstract = "How can librarians effectively teach patrons about digital privacy? 
 abstract_short = "How can librarians effectively teach patrons about digital privacy? How does instruction about digital privacy fit within a scholarly communications program?"
 event = "Information Freedom, Ethics, and Integrity"
 event_url = "https://www.niso.org/events/2018/04/information-freedom-ethics-and-integrity"
-location = "Virtual Conference"
+location = "NISO Virtual Conference"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -21,7 +21,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://www.slideshare.net/BaltimoreNISO/anderson-experiments-in-digital-privacy-education"
 url_video = ""
 url_code = ""
 
