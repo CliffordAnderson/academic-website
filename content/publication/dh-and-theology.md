@@ -1,6 +1,6 @@
 +++
 abstract = "What potential does digital humanities have to shape the practice of theology? Are there theological questions at stake? This essay is exploratory, aspiring to identify points of contact between the digital humanities and theology."
-abstract_short = "What potential does digital humanities have to shape the practice of theology? Are there theological questions at stake? This essay is exploratory, aspiring to identify points of contact between the digital humanities and theology.."
+abstract_short = "What potential does digital humanities have to shape the practice of theology? Are there theological questions at stake? This essay is exploratory, aspiring to identify points of contact between the digital humanities and theology."
 authors = ["Clifford B. Anderson"]
 date = "2018-07-24"
 image_preview = ""
