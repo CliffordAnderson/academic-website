@@ -11,7 +11,7 @@ event_url = "http://www.taiwancpt.org/events/files/forensic_theology_conference.
 location = "Taiwan, Taipei"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
