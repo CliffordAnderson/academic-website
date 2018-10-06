@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/andersoncliffb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cliffordanderson.net
+  * I am andersoncliffb (https://keybase.io/andersoncliffb) on keybase.
+  * I have a public key ASBo8pD8YbFfvYgwECUc5FMtGym6hWpvpoWJL94Vi3IU2Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018874c7f2fd337525ec74e687ff36086b0c474d4b5b1c9689d2ffbb6e714b28420a",
+      "host": "keybase.io",
+      "kid": "012068f290fc61b15fbd883010251ce4532d1b29ba856a6fa685892fde158b7214d90a",
+      "uid": "5973492653e84a5fbe71824fa17dc319",
+      "username": "andersoncliffb"
+    },
+    "merkle_root": {
+      "ctime": 1538860065,
+      "hash": "043803dc8342f0191b03f24974d6b1675f56ac1e8d1b451cd435ea830c6d270c416f7fdf07fd9205a3969780f133a929d4ea791dde1addd436e1f7559d15968e",
+      "hash_meta": "4bcd0b6790891d8c8b0d60756a75c622570ce9c90fc14c93b903dcebde7f737c",
+      "seqno": 3756272
+    },
+    "service": {
+      "entropy": "zGRRt77dtOjBf6J4NZMDYFrX",
+      "hostname": "cliffordanderson.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.2"
+  },
+  "ctime": 1538860148,
+  "expire_in": 504576000,
+  "prev": "57660aba065fc69f3612e812680e04d8f1e956d3f536a24efabd5a21510ce056",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaPKQ/GGxX72IMBAlHORTLRspuoVqb6aFiS/eFYtyFNkKp3BheWxvYWTESpcCOsQgV2YKugZfxp82EugSaA4E2PHpVtP1NqJO+r1aIVEM4FbEIEYzumJBU31rDV1a2Xs1P73HlrXB0sPeGoYM2hWfOa1FAgHCo3NpZ8RAlHBS23GAWrVXWAQniAbG0E7FwUtAwTangHwklbPF5f5xKV7jSUJ6tqP4BCqn4vhXAPvpr8UkI923sJEV3JoWDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPug2TZMt+o0j1LGh/r3KBlNHOtgd/0Y337Pogf9oTX7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andersoncliffb
+
+==================================================================
