@@ -21,7 +21,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://commons.wikimedia.org/wiki/File:Teaching_with_Wikidata-A_Case_Study.pdf"
 url_video = ""
 url_code = ""
 
